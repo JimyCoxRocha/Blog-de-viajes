@@ -17,12 +17,12 @@
     <section>
         <h2 class="centrar-txt">Formulario de Contacto</h2>
             <form action="" class="formulario">
-                <label for="nombre">Nombre: </label> <input type="text" placeholder="Nombre" id="nombre"  pattern="[A-Za-z]{4,16}">
+                <label for="nombre">Nombre: </label> <input type="text" placeholder="Nombre" id="nombre"  pattern="[A-Za-z]{4,16}" onkeypress="return soloLetras(event)">
                 <label for="correo">Correo: </label> <input type="email" placeholder="Correo electrónico" id="correo">
-                <label for="telefono">Telefono: </label> <input type="tel" placeholder="Número de Whatsapp" id="telefono" pattern="[0-9]{10}">
+                <label for="telefono">Telefono: </label> <input type="tel" placeholder="Número de Whatsapp" id="telefono" pattern="[0-9]{10}" onkeypress="return soloNumeros(event)">
                 
                 <div class="centrar-inline">
-                    <input type="submit" class="boton">
+                    <input type="submit" id="submit" class="boton">
                 <div>
                 
             </form>

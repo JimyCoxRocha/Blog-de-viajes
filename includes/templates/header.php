@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/video-js.css"> 
     <script type ="text/javascript" src="js/video.js"></script>
     
+    <script type="text/javascript" src="js/jquery.js"></script>
     <link rel="stylesheet" href="css/styleContacto.css">
     <link rel="stylesheet" href="css/styleGrid.css">
     <link rel="stylesheet" href="css/estilos.css">

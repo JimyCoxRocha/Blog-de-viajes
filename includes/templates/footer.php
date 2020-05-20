@@ -18,6 +18,8 @@
         </div>
         <p class="copyright">BlogdeViajes - Todos los derechos Reservados 2019 &copy;</p>
     </footer>
+
+    <script type="text/javascript" src="js/main.js"></script>
     <script>
         var reproductor = videojs('fm-video', {
 			fluid: true
