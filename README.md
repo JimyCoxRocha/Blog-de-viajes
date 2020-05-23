@@ -23,4 +23,6 @@ _Navegador de smartphone o de computadora_
 [![Sitio web](img/Blog-de-Viajes.png)](https://)
 
 ## ❤️❤️❤️ Sitio Web Mobile (_Haga click a la imagen_) ❤️❤️❤️
-<div style="text-align:center"><img src="img/Blog-de-viajes-mobile.png" /></div>
+<p align="center">
+  <img src="img/Blog-de-viajes-mobile.png">
+</p>
