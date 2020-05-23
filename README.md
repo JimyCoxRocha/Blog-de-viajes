@@ -20,7 +20,7 @@ _Navegador de smartphone o de computadora_
 **(Mensajería)**
 
 ## ❤️❤️❤️ Sitio Web Descktop (_Haga click a la imagen_) ❤️❤️❤️
-[![Sitio web](img/Blog-de-Viajes.png)](https://)
+[![Sitio web](<div style="text-align:center"><img src="img/Blog-de-Viajes.png" /></div>)](https://)
 
 ## ❤️❤️❤️ Sitio Web Mobile (_Haga click a la imagen_) ❤️❤️❤️
 [![Sitio web](img/Blog-de-viajes-mobile.png)](https://)
