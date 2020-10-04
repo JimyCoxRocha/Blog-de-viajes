@@ -11,7 +11,7 @@
                         <h3 class="centrar-txt">Laguna de Quilotoa, Latacunga</h3>
                         <img src="img/Laguna_Quilotoa.jpg" alt="Laguna de Quilotoa">
                         <p>Un lugar increíble lleno de paz.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article>
                 </div>
 
@@ -25,19 +25,19 @@
                         <h3>Isla Galápagos</h3>
                         <img src="img/isla_galapagos.jpg" alt="Isla Galápagos">
                         <p>Isla paradisiaca donde se vive la naturaleza.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="# ></a>
                     </article>    
                     <article class="articulo">
                         <h3>Malecón 2000, Guayaquil</h3>
                         <img src="img/malecon_2000.jpg" alt="malecón 2000">
                         <p>Donde se pasea en el centro de la ciudad.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article>
                     <article class="articulo">
                         <h3>Basílica del Voto Nacional, Quito</h3>
                         <img src="img/Laguna_Quilotoa.jpg" alt="Basílica del Voto Nacional">
                         <p>La historia del siglo pasado.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article>
                     
                 </div>
@@ -52,55 +52,55 @@
                         <h3>Torre Eiffel</h3>
                         <img src="img/torre_eiffel.jpg" alt="Torre Eiffel">
                         <p>Una plaza llena de cultura.</p>
-                        <a href="http://xvideos.com"></a>
+                        <a href="#"></a>
                     </article>
                     <article class="articulo">
                         <h3>Torre Eiffel</h3>
                         <img src="img/torre_eiffel.jpg" alt="Torre Eiffel">
                         <p>Una plaza llena de cultura.</p>
-                        <a href="http://xvideos.com"></a>
+                        <a href="#"></a>
                     </article>
                     <article class="articulo">
                         <h3>Laguna de Quilotoa, Latacunga</h3>
                         <img src="img/Laguna_Quilotoa.jpg" alt="Laguna de Quilotoa">
                         <p>Un lugar increíble lleno de paz.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article>
                     <article class="articulo">
                         <h3>Isla Galápagos</h3>
                         <img src="img/isla_galapagos.jpg" alt="Isla Galápagos">
                         <p>Isla paradisiaca donde se vive la naturaleza.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article>
                     <article class="articulo">
                         <h3>Malecón 2000, Guayaquil</h3>
                         <img src="img/malecon_2000.jpg" alt="malecón 2000">
                         <p>Donde se pasea en el centro de la ciudad.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article> 
                     <article class="articulo">
                         <h3>Malecón 2000, Guayaquil</h3>
                         <img src="img/malecon_2000.jpg" alt="malecón 2000">
                         <p>Donde se pasea en el centro de la ciudad.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article>
                     <article class="articulo">
                         <h3>Malecón 2000, Guayaquil</h3>
                         <img src="img/malecon_2000.jpg" alt="malecón 2000">
                         <p>Donde se pasea en el centro de la ciudad.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article> 
                     <article class="articulo">
                         <h3>Malecón 2000, Guayaquil</h3>
                         <img src="img/malecon_2000.jpg" alt="malecón 2000">
                         <p>Donde se pasea en el centro de la ciudad.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article>
                     <article class="articulo">
                         <h3>Malecón 2000, Guayaquil</h3>
                         <img src="img/malecon_2000.jpg" alt="malecón 2000">
                         <p>Donde se pasea en el centro de la ciudad.</p>
-                        <a href="http://xvideos.com" ></a>
+                        <a href="#" ></a>
                     </article> 
                 </div>
             </section>
@@ -188,7 +188,7 @@
                             la comunicación entre personas; me resulta inspirador el tejido sobre el cual
                             está constiudída nuestra socidad.-->
                         </P>
-                        <a href="http://xvideos.com"></a>
+                        <a href="#"></a>
 
                 </article>
                 <article class="articulo mostrar-persona">
@@ -204,7 +204,7 @@
                             la comunicación entre personas; me resulta inspirador el tejido sobre el cual
                             está constiudída nuestra socidad.-->
                     </P>
-                    <a href="http://xvideos.com"></a>
+                    <a href="#"></a>
                 </article>
 
             </div>
@@ -223,7 +223,7 @@
                             la comunicación entre personas; me resulta inspirador el tejido sobre el cual
                             está constiudída nuestra socidad.-->
                     </P>
-                    <a href="http://xvideos.com"></a>
+                    <a href="#"></a>
                 </article>
 
                 <article class="articulo mostrar-persona">
@@ -239,7 +239,7 @@
                             la comunicación entre personas; me resulta inspirador el tejido sobre el cual
                             está constiudída nuestra socidad.-->
                     </P>
-                    <a href="http://xvideos.com"></a>
+                    <a href="#"></a>
                 </article>
 
                 <article class="articulo mostrar-persona">
@@ -255,7 +255,7 @@
                             la comunicación entre personas; me resulta inspirador el tejido sobre el cual
                             está constiudída nuestra socidad.-->
                     </P>
-                    <a href="http://xvideos.com"></a>
+                    <a href="#"></a>
                 </article>
 
             </div>
@@ -287,7 +287,7 @@
                             la comunicación entre personas; me resulta inspirador el tejido sobre el cual
                             está constiudída nuestra socidad.-->
                         <!--</P>
-                        <a href="http://xvideos.com"></a>
+                        <a href="#"></a>
                     </div>
                 </article>
 
@@ -304,7 +304,7 @@
                             la comunicación entre personas; me resulta inspirador el tejido sobre el cual
                             está constiudída nuestra socidad.-->
                         <!--</P>
-                        <a href="http://xvideos.com"></a>
+                        <a href="#"></a>
                     </div>
                 </article>-->
             
