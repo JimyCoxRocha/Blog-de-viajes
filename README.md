@@ -19,7 +19,7 @@ _Navegador de smartphone o de computadora_
 ## ❤️❤️❤️ Sitio Web Descktop (_Haga click a la imagen_) ❤️❤️❤️
 [![Sitio web](img/blog-viajes-desktop.png)](https://)
 
-## ❤️❤️❤️ Complemento en Funcionamiento (_Números censurados_) ❤️❤️❤️
+## ❤️❤️❤️ Sitio Web Mobile (_Haga click a la imagen_) ❤️❤️❤️
 <p align="center">
   <img src="img/blog-de-viajes-mobile.png">
 </p>
