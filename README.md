@@ -15,6 +15,10 @@ _Navegador de smartphone o de computadora_
 * [MySql](https://www.mysql.com/) - Sistema gestor de base de datos relacional usado para los planes de televisión y los clientes.
 * [XAMPP](https://www.apachefriends.org/es/index.html) - Paquete de software utilizado, en donde se encuentra el servidor Apache.
 
+
+## ❤️❤️❤️ Sitio Web Descktop (_Haga click a la imagen_) ❤️❤️❤️
+[![Sitio web](img/blog-viajes-desktop.png)](https://)
+
 ## ❤️❤️❤️ Complemento en Funcionamiento (_Números censurados_) ❤️❤️❤️
 <p align="center">
   <img src="img/blog-de-viajes-mobile.png">
